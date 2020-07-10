@@ -1,0 +1,11 @@
+/debug
+/release
+/moc
+/obj
+/docs
+TcpEchoServer
+TcpEchoServer.pro.user
+.qmake.stash
+Makefile
+Makefile.Debug
+Makefile.Release
